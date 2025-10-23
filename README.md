@@ -37,7 +37,7 @@ At the end, you’ll receive a detailed performance summary with your results.
    - ❌ *Wrong Answer :( The Correct Answer is X*
 
 4. After completing all questions, the game displays:
-   - 🧮 Total number of questions  
-   - 🎚️ Chosen difficulty level and operation type  
-   - 📊 Count of correct and wrong answers  
-   - 🏆 Final result: **Pass** or **Fail**
+   - Total number of questions  
+   - Chosen difficulty level and operation type  
+   - Count of correct and wrong answers  
+   - Final result: **Pass** or **Fail**
